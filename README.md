@@ -9,3 +9,5 @@ cars -->
           car_01.jpeg
           rusty_car_02.jpeg
           rusty_car_02.jpeg
+          
+The labels will be extracted from the image names themselves.
